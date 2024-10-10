@@ -1,2 +1,2 @@
 # Paint-Vectoriel
-course project
+course project IHM
