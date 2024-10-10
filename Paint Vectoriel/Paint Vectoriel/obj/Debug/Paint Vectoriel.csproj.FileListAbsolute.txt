@@ -1,0 +1,20 @@
+c:\users\brackenj\documents\visual studio 2015\Projects\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.exe.config
+U:\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.exe.config
+U:\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.exe
+U:\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.pdb
+U:\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.csprojResolveAssemblyReference.cache
+U:\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint_Vectoriel.Form1.resources
+U:\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint_Vectoriel.Properties.Resources.resources
+U:\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.csproj.GenerateResource.Cache
+U:\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.exe
+U:\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.pdb
+U:\IHM\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.exe.config
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.exe
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.pdb
+U:\IHM\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.exe
+U:\IHM\Paint Vectoriel\Paint Vectoriel\bin\Debug\Paint Vectoriel.pdb
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.csprojResolveAssemblyReference.cache
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint_Vectoriel.Form1.resources
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint_Vectoriel.Properties.Resources.resources
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.csproj.GenerateResource.Cache
+U:\IHM\Paint Vectoriel\Paint Vectoriel\obj\Debug\Paint Vectoriel.csproj.CoreCompileInputs.cache
